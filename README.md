@@ -49,19 +49,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmeenElnaggar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
 <hr/>
 
 
-<h4 align="left">Who Am I 📖</h4>
+###
+
+<h3 align="left">Who Am I 📖</h3>
 
 ###
 
-<p align="left">I am a Front-End Developer with one year of experience in building dynamic and responsive web applications using Angular, TypeScript, JavaScript,<br>HTML, CSS, SCSS, and Tailwind CSS. I specialize in integrating RESTful APIs and Firebase, implementing authentication, optimizing performance,<br>and enhancing UI/UX with Angular Material and Chart.js. I am passionate about clean code, efficiency, and staying up to date with the latest<br>technologies</p>
+<p align="left">I am a Front-End Developer with two years of experience specializing in building dynamic and responsive web applications using Angular, TypeScript, and modern web technologies. I have hands-on expertise in integrating RESTful APIs and Firebase, implementing authentication, and enhancing UI/UX with Angular and Chart.js. I am passionate about writing clean, efficient code and continuously learning the latest tools and best practices to deliver high-quality user experiences.</p>
 
 ###
 
 <hr/>
+
 
 <h3 align="left">Connect with me:</h3>
 
