@@ -1,5 +1,6 @@
 <h1 align="center">✨ Ameen Elnaggar ✨</h1>
 
+
 ###
 
 <h4 align="center">Software Engineer & Front-End Developer (Angular)</h4>
@@ -41,6 +42,7 @@
 </div>
 
 ###
+<hr/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AmeenElnaggar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
