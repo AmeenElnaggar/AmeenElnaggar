@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Software Engineer & Front-End Developer (Angular)</p>
+<h4 align="center">Software Engineer & Front-End Developer (Angular)</h4>
 
 ###
 
