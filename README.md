@@ -48,8 +48,6 @@
 </div>
 
 ###
-<hr/>
-
 <h3 align="left">Contact Me 📩</h3>
 
 ###
