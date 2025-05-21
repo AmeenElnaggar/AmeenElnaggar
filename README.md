@@ -33,6 +33,8 @@
   <img width="4" />
   <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" height="25" alt="jest logo"  />
   <img width="4" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="25" alt="firebase logo"  />
+  <img width="4" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  />
   <img width="4" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="25" alt="jupyter logo"  />
@@ -48,10 +50,20 @@
 </div>
 
 ###
+<hr/>
+
+
+<h4 align="left">Who Am I 📖</h4>
+
+###
+
+<p align="left">I am a Front-End Developer with one year of experience in building dynamic and responsive web applications using Angular, TypeScript, JavaScript,<br>HTML, CSS, SCSS, and Tailwind CSS. I specialize in integrating RESTful APIs and Firebase, implementing authentication, optimizing performance,<br>and enhancing UI/UX with Angular Material and Chart.js. I am passionate about clean code, efficiency, and staying up to date with the latest<br>technologies</p>
+
+###
 
 <hr/>
 
-<h3 align="left">Contact Me 📩</h3>
+<h3 align="left">Connect with me:</h3>
 
 ###
 
